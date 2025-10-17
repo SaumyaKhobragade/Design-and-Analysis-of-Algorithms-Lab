@@ -1,0 +1,6 @@
+# Ignore IntelliJ IDEA files
+.idea/
+
+# Ignore Word and PDF documents
+*.docx
+*.pdf
