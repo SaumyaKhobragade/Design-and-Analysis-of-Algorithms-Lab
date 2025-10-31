@@ -4,3 +4,5 @@
 # Ignore Word and PDF documents
 *.docx
 *.pdf
+
+network-packet-routing-simulator/
